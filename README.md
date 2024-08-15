@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeNNYHZ
 - 👀 I’m interested in gaming and coding
-- 🌱 I’m currently learning Golang, HTML, CSS, Java, Python, and C++
+- 🌱 I’m currently learning Golang, MongoDB, HTML, CSS, Java, Python, and C++
 - 💞️ I’m looking to collaborate on a small project
 - 📫 To reach me just email me on iamdenisetiawan@gmail.com
 
