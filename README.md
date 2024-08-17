@@ -21,7 +21,7 @@ A passionate Computer Science student at Universitas Kristen Petra (class of '21
 
 📬 Let's Connect!
 
-* 
+* Email : iamdenisetiawan@gmail.com
 
 🔥 Fun Fact:
 
