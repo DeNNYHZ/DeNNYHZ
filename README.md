@@ -1,36 +1,35 @@
-## 👋 Halo, Saya Deni Setiawan!
+## 👋 Hello, I'm Deni Setiawan!
 
-Seorang mahasiswa Universitas Kristen Petra angkatan '21 yang sedang menjelajahi dunia pemrograman dengan semangat membara. 🚀
+A passionate Computer Science student at Universitas Kristen Petra (class of '21), currently exploring the exciting world of programming. 🚀
 
-**🛠️ Toolbox Saya:**
+🛠️ My Toolbox:
 
-* **Java & Python:** Duo dinamis untuk membangun aplikasi yang kuat dan efisien.
-* **HTML, CSS & JavaScript:** Trifecta untuk menciptakan pengalaman web yang interaktif dan memukau.
-* **Golang & MongoDB:** Petualangan baru dalam pengembangan backend yang skalabel dan penyimpanan data yang fleksibel.
+* Java & Python: The dynamic duo for building robust and efficient applications.
+* HTML, CSS & JavaScript: The trifecta for crafting interactive and captivating web experiences.
+* Golang & MongoDB: Embarking on a new adventure in scalable backend development and flexible data storage.
 
-**🌱 Sedang Bertumbuh:**
+🌱 Currently Growing:
 
-* Terus memperdalam pemahaman tentang Golang dan MongoDB secara mandiri.
-* Selalu terbuka untuk belajar teknologi dan bahasa pemrograman baru.
+* Continuously deepening my understanding of Golang and MongoDB through self-learning.
+* Always eager to explore new technologies and programming languages.
 
-**🌟 Tujuan Saya:**
+🌟 My Goals:
 
-* Menjadi seorang pengembang full-stack yang handal dan inovatif.
-* Berkontribusi pada proyek-proyek open-source yang bermanfaat bagi komunitas.
-* Terus belajar dan berkembang di dunia teknologi yang selalu berubah.
+* To become a skilled and innovative full-stack developer.
+* To contribute to open-source projects that benefit the community.
+* To keep learning and evolving in the ever-changing world of technology.
 
-**📬 Ayo Terhubung!**
+📬 Let's Connect!
 
-* LinkedIn [URL yang tidak valid dihapus]
-* GitHub [URL yang tidak valid dihapus]
+* 
 
-**🔥 Fun Fact:**
+🔥 Fun Fact:
 
-* Saya percaya bahwa setiap baris kode adalah sebuah karya seni. ✨
+* I believe that every line of code is a work of art. ✨
 
-**📝 Catatan:**
+📝 Note:
 
-* Meskipun saya masih dalam tahap belajar, saya selalu berusaha memberikan yang terbaik dalam setiap proyek yang saya kerjakan.
-* Jangan ragu untuk menghubungi saya jika Anda ingin berkolaborasi.
+* While I'm still learning, I always strive to give my best in every project I undertake.
+* Feel free to reach out if you have any questions or would like to collaborate.
 
-**Let's code the future together!** 💻
+**"I believe that technology has the power to change the world, and I'm excited to be a part of that change."** 💻 
