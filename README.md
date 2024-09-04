@@ -6,11 +6,11 @@ A passionate Computer Science student at Universitas Kristen Petra (class of '21
 
 * Java & Python: The dynamic duo for building robust and efficient applications.
 * HTML, CSS & JavaScript: The trifecta for crafting interactive and captivating web experiences.
-* Golang & MongoDB: Embarking on a new adventure in scalable backend development and flexible data storage.
+* Golang, PostgreSQL & MongoDB: Embarking on a new adventure in scalable backend development and flexible data storage.
 
 🌱 Currently Growing:
 
-* Continuously deepening my understanding of Golang and MongoDB through self-learning.
+* Continuously deepening my understanding of Golang and PostgreSQL through self-learning.
 * Always eager to explore new technologies and programming languages.
 
 🌟 My Goals:
