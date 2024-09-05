@@ -15,7 +15,7 @@ A passionate Computer Science student at Universitas Kristen Petra (class of '21
 
 🌟 My Goals:
 
-* To become a skilled and innovative full-stack developer.
+* To become a skilled and innovative back-end developer.
 * To contribute to open-source projects that benefit the community.
 * To keep learning and evolving in the ever-changing world of technology.
 
