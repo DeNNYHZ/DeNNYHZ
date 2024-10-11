@@ -2,6 +2,9 @@
 
 A passionate Computer Science student at Universitas Kristen Petra (class of '21), currently exploring the exciting world of programming. 🚀
 
+![](https://raw.githubusercontent.com/DeNNYHZ/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/DeNNYHZ/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 🛠️ My Toolbox:
 
 * Java & Python: The dynamic duo for building robust and efficient applications.
