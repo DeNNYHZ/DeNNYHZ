@@ -74,7 +74,7 @@ Windows as my daily driver, Ubuntu servers for development, deployment, and infr
 
 ### Infrastructure
 
-I run my own VPS on **Oracle Cloud (Always Free, Ubuntu ARM)**, hosting a Docker Compose stack of PostgreSQL, Redis, Nginx, Uptime Kuma, and Netdata — under my domain [dennyhz.dev](https://dennyhz.dev).
+I run my own VPS on **Oracle Cloud**, hosting a Docker Compose stack of PostgreSQL, Redis, Nginx, Uptime Kuma, and Netdata — under my domain [dennyhz.dev](https://dennyhz.dev).
 
 ---
 
