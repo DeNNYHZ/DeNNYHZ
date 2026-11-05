@@ -14,8 +14,6 @@ I primarily build with **Go, JavaScript, TypeScript, Python, and Java**, with a 
 
 
 
-I build with **Go, Python, Java, JavaScript, and TypeScript**, and I design, deploy, and maintain my own VPS infrastructure on the side.
-
 ### Main Operating System
 
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
