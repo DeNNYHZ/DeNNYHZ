@@ -2,9 +2,17 @@
 
 ### About Me
 
-I'm a **Full-Stack Developer & IT Infrastructure Engineer** based in Surabaya, Indonesia, focused on **backend engineering, API development, system integration, and infrastructure**.
+I'm a **Full-Stack Developer & IT Infrastructure Engineer** based in Surabaya, Indonesia, focused on **backend engineering, API development, system integration, and self-hosted infrastructure.**
 
-I currently work as **IT Lead & Full-Stack Developer** at Puncak Group — handling application development, servers, networking, and hardware end-to-end while leading a small IT team.
+I have professional experience in IT operations and full-stack application development, including backend systems, REST APIs, database integration, payment gateway integration, server administration, and network troubleshooting.
+
+Previously worked as an **IT Staff & Full-Stack Developer at Puncak Group**, where I handled end-to-end IT operations, coordinated IT and CCTV/network personnel, maintained business applications, and developed BCA Virtual Account integration for online IPL payments and parking renewals.
+
+Outside professional work, I build and maintain my own homelab infrastructure for virtualization, containerization, networking, remote access, self-hosted services, and infrastructure automation.
+
+I primarily build with **Go, JavaScript, TypeScript, Python, and Java**, with a strong interest in backend architecture, system reliability, and infrastructure engineering.
+
+
 
 I build with **Go, Python, Java, JavaScript, and TypeScript**, and I design, deploy, and maintain my own VPS infrastructure on the side.
 
